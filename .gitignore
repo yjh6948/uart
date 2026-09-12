@@ -1,0 +1,3 @@
+sim/*.vcd
+sim/uart_sim
+sim/out.log
